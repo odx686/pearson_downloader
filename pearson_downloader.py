@@ -1,3 +1,7 @@
+# foxitAssetUrl list
+# Pearson Physics 11 Western Australia https://d2f01w1orx96i0.cloudfront.net/resources/products/epubs/generated/b80f43ed-8190-42a2-8c62-9b96f8bb697f/foxit-assets
+# Pearson Science 7 2nd Edition https://d2f01w1orx96i0.cloudfront.net/resources/products/epubs/generated/0BF64C74-5379-4819-A22C-590AA451028E/foxit-assets
+
 import requests
 from PIL import Image
 from io import BytesIO
