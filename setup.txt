@@ -1,0 +1,4 @@
+Python 3 and pip required 
+
+$ pip install pillow
+$ pip install requests
